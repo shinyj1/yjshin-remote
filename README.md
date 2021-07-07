@@ -1,1 +1,1 @@
-# yjshin-remote
+# from 6 node
